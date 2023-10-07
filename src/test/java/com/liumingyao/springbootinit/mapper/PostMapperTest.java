@@ -1,6 +1,5 @@
-package springbootinit.mapper;
+package com.liumingyao.springbootinit.mapper;
 
-import com.liumingyao.springbootinit.mapper.PostMapper;
 import com.liumingyao.springbootinit.model.entity.Post;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

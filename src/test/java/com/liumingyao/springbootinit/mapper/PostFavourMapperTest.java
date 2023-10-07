@@ -1,9 +1,8 @@
-package springbootinit.mapper;
+package com.liumingyao.springbootinit.mapper;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.liumingyao.springbootinit.mapper.PostFavourMapper;
 import com.liumingyao.springbootinit.model.entity.Post;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,5 @@
-package springbootinit.service;
+package com.liumingyao.springbootinit.service;
 
-import com.liumingyao.springbootinit.service.UserService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

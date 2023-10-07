@@ -1,10 +1,9 @@
-package springbootinit.service;
+package com.liumingyao.springbootinit.service;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.liumingyao.springbootinit.model.entity.Post;
 import com.liumingyao.springbootinit.model.entity.User;
-import com.liumingyao.springbootinit.service.PostFavourService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
